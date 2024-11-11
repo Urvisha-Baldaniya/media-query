@@ -1,0 +1,44 @@
+
+  /* XS */
+@media(min-width:576px){
+	.container{
+		max-width:540px;
+	}
+	.w-xs-1{
+		width:100%;
+	}
+}
+
+  /* SM */
+@media(min-width:768px){
+	.container{
+		max-width:720px;
+	}
+	.w-sm-2{
+		width:50%;
+	}
+}
+
+  /* MD */
+@media(min-width:992px){
+	.container{
+		max-width:960px;
+	}
+}
+
+  /* XL */
+@media(min-width:1200px){
+	.container{
+		max-width:1140px;
+	}
+	.w-xl-3{
+		width:33.33%;
+	}
+}
+
+  /* XXL */
+@media(min-width:1400px){
+	.container{
+		max-width:1320px;
+	}
+}
